@@ -1,6 +1,5 @@
 ### Hi everyone!
 
-Biotechnologist by the Polytechnical University of València and currently studying to become Cloud Computing Developer by the Industrial Organization School and Generation.
-I am learning Python and C# programming and Azure Cloud Development.
+Biotechnologist by the Polytechnical University of València. I am learning Python and C# programming.
 
-I am a very motivated person with interest on learning and growing professionally. I am very interested in Cloud computing, data analysis, bioinformatics, and AI.
+I am a very motivated person with interest on learning and growing professionally. I am very interested in data analysis, bioinformatics, and AI.
